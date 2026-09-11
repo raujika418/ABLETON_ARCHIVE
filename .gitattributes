@@ -1,2 +1,4 @@
 TimeCounting_v2.mp3 filter=lfs diff=lfs merge=lfs -text
 TimeCounting.mp3 filter=lfs diff=lfs merge=lfs -text
+TimeCounting.wav filter=lfs diff=lfs merge=lfs -text
+TimeCounting_v2.wav filter=lfs diff=lfs merge=lfs -text
